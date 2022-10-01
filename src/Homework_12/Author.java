@@ -1,8 +1,8 @@
 package Homework_12;
 
 public class Author {
-    String lastName;
-    String name;
+   private String lastName;
+    private String name;
 
     public Author(String lastName, String name) {
         this.lastName = lastName;
